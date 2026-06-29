@@ -1,0 +1,6 @@
+{
+  "name": "Snygg",
+  "description": "A cozy, countryside farm-themed gamified productivity app inspired by Studio Ghibli, featuring mood-based task rescheduling, voice controls, a Focus Nook, a Snyx cat companion, and autonomous email drafting.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
